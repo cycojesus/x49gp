@@ -1,6 +1,7 @@
 Additional Note: August 24, 2016
 
 Included 2.15 firmware and made it default.
+Please note the companion slackbuild script @ https://github.com/cycojesus/slackbuilds/tree/master/xap/x49gp
 
 --Gwenhael Le Moine
 
