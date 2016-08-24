@@ -1,3 +1,9 @@
+Additional Note: August 24, 2016
+
+Included 2.15 firmware and made it default.
+
+--Gwenhael Le Moine
+
 Additional Note: April 14, 2016
 
 Modified code so that it will compile on Ubuntu 14.04.
